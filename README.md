@@ -1,10 +1,10 @@
 # Targeted-attacks-on-malicious-traffic-detection
 ## Introduction:
-A targeted attacks method on malicious traffic detection.
+This is a project about a targeted attacks method for malicious traffic detection.
 
-This work has been submitted to ICASSP. 
+This work has been submitted to **ICASSP2024**. 
 
-We submitted part of the code, and the full code will be published after admission.
+We submitted part of the project, and the full project will be published after admission.
 
 ## Abstract:
 Leveraging deep learning to detect malicious network traffic is a crucial technology in network management and network security. However, deep learning security has raised concerns among scholars.
