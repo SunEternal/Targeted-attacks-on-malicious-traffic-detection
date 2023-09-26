@@ -383,7 +383,6 @@ def attack(x_data, model):
     x_data0 = x_data[mask_y0]
     y_data0 = y_pre[mask_y0]
 
-    # 使用布尔索引筛选出 y_data 不等于 0 的数据
     mask_y1 = y_pre != 0
     x_data1 = x_data[mask_y1]
     y_data1 = y_pre[mask_y1]
